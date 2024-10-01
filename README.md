@@ -5,6 +5,7 @@ Overview
 Travel Planner AI is a Software as a Service (SaaS) product that leverages cutting-edge technologies to streamline the travel planning process. By simply providing a prompt such as "2 days trip to London with budget $1000," our AI-powered tool generates comprehensive travel plans tailored to your preferences.
 
 image
+![image](https://github.com/user-attachments/assets/c3bd4e17-bd34-41a5-b9f3-3544c8915037)
 
 Demo
 Check out the live demo ﻿here.
@@ -18,7 +19,11 @@ Prime Experiences: Immerse yourself in unforgettable moments curated just for yo
 Expense Tracker: Effectively track your expenses throughout your journey and can revisit later as well.
 Email Invite: Invite your friend and colleagues to your desired plan and collaborate together.
 Architecture
+![image](https://github.com/user-attachments/assets/e30708d1-5fd0-4c64-bacd-1578929307e9)
+
 Architecture Diagram
+![image](https://github.com/user-attachments/assets/60dba756-10e3-4a3e-ab2b-84ec56abf971)
+
 
 Email Flow
 
