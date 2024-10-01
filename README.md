@@ -18,14 +18,15 @@ Foodie Hotspots: Indulge in culinary delights with recommendations from local ex
 Prime Experiences: Immerse yourself in unforgettable moments curated just for you.
 Expense Tracker: Effectively track your expenses throughout your journey and can revisit later as well.
 Email Invite: Invite your friend and colleagues to your desired plan and collaborate together.
-Architecture
+
+# Architecture
 ![image](https://github.com/user-attachments/assets/e30708d1-5fd0-4c64-bacd-1578929307e9)
 
-Architecture Diagram
+# Architecture Diagram
 ![image](https://github.com/user-attachments/assets/60dba756-10e3-4a3e-ab2b-84ec56abf971)
 
 
-Email Flow
+ Email-shubham.22scse1040075@galgotiasuniversity.edu.in
 
 # Technologies Used
 
